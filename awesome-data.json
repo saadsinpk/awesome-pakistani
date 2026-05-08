@@ -524,6 +524,19 @@
                         "Go",
                         "C#"
                     ]
+                },
+                {
+                    "name": "Sid Techno LLC",
+                    "github_link": "https://github.com/saadsinpk",
+                    "github_user": "saadsinpk",
+                    "web": "https://sidtechno.com",
+                    "technologies": [
+                        "JavaScript",
+                        "TypeScript",
+                        "React",
+                        "Node.js",
+                        "Docker"
+                    ]
                 }
             ]
         },
